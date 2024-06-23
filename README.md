@@ -28,7 +28,7 @@ Proyectos de programación backend orientados a entender la capa lógica del pro
 
 Aquí listaré los proyectos que vaya desarrollando. Sí el proyecto está en un _host_, podrás verlo en vivo en _Ver Live_ o el repositorio en _Ver repositorio_:
 
-- [✅] **Proyecto 01: Creación de APIs REST usando Next 14** | **[Ver Repositorio]("")**
+- [✅] **Proyecto 01: Creación de APIs REST usando Next 14** | **[Ver Repositorio]("https://github.com/luidev0/proyectos-backend/tree/main/rest-api-next14")**
 - [⌛] **Proyecto 02: En progreso...**
 
 ## <a name="contact">📜 Contáctame</a>

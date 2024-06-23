@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://yataipe.netlify.app" target="_blank">
+    <a href="https://github.com/luidev0/proyectos-backend/tree/main/rest-api-next14" target="_blank">
       <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/6077011/og_image/optimized/0405_Building_a_Node.js-TypeScript_REST_API_Zara_Social-3802e124228ce1c923892fc7f72419db.png" alt="Project Banner" width="500px" height="auto" >
     </a>
   <br />
@@ -84,7 +84,7 @@ Abre el enlace [http://localhost:3000](http://localhost:3000) para poder ver el 
 
 ### Repositorio del proyecto
 
-<a href="https://yataipe.netlify.app" target="_blank"><img src="https://img.shields.io/badge/API%20Rest%20Next14-black?style=for-the-badge&logo=databricks&logoColor=white&color=%23252525" /></a>
+<a href="https://github.com/luidev0/proyectos-backend/tree/main/rest-api-next14" target="_blank"><img src="https://img.shields.io/badge/API%20Rest%20Next14-black?style=for-the-badge&logo=databricks&logoColor=white&color=%23252525" /></a>
 
 ### Toma de captura de pantalla
 
