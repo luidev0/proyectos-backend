@@ -70,6 +70,14 @@ Instala las dependencias usando npm:
 npm install
 ```
 
+**Configuración**
+
+Añadir las credencias en el archivo .env:
+
+```bash
+MONGODB_URI="TU_CLAVE_SECRETA_DE_MONGODB"
+```
+
 **Ejecución**
 
 Ejecuta el proyecto usando npm:
